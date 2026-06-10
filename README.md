@@ -12,10 +12,20 @@
   </picture>
 </div>
 
+## Now
+
+<a href="https://github.com/mori08/Ash2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mori08&repo=Ash2&theme=github_dark_dimmed" />
+    <img alt="沼に焚べ (Ash2)" src="https://github-readme-stats.vercel.app/api/pin/?username=mori08&repo=Ash2" />
+  </picture>
+</a>
+
 ## Works
 
 |  |  |
 |---|---|
+| <img width="220" src="images/ichinoichi.png" /> | **一ノ一**<br>モノクロのドット絵の世界で、退化に抗うロボットたちの2Dアドベンチャー<br>リリース: 2026 ・ [Steam](https://store.steampowered.com/app/4022520/) ・ Repo: 非公開 🔒 |
 | <img width="220" src="images/55.png" /> | **55?**<br>ロボットと話して、会いに行く<br>リリース: 2024 ・ [ふりーむ!](https://www.freem.ne.jp/win/game/32846) / [Repo](https://github.com/mori08/KokoHatena) |
 | <img width="220" src="images/558.png" /> | **558**<br>ステージに合わせた光を装備してゴールを目指す<br>リリース: 2020 ・ [ふりーむ!](https://www.freem.ne.jp/win/game/22184) / [Repo](https://github.com/mori08/Kokoha) |
 | <img width="220" src="images/556.png" /> | **556**<br>自機をキーボード、光をマウスで操作してゴールを目指す<br>リリース: 2019 ・ [ふりーむ!](https://www.freem.ne.jp/win/game/21008) / [Repo](https://github.com/mori08/Robot) |
