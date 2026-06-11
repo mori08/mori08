@@ -1,4 +1,9 @@
 # mori08
+[![Steam](https://img.shields.io/badge/Steam-171a21?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/curator/46159609)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nanka_mori)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/mori08)
+[![ふりーむ!](https://img.shields.io/badge/ふりーむ!-EE7800?style=flat)](https://www.freem.ne.jp/brand/9838)
+
 ## Activity
 [Siv3D](https://siv3d.github.io/) を使ってゲーム開発をしています。
 <div align="left">
