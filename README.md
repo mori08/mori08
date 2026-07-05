@@ -8,12 +8,12 @@
 [Siv3D](https://siv3d.github.io/) を使ってゲーム開発をしています。
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mori08&layout=compact&theme=github_dark_dimmed" />
-    <img alt="top langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori08&layout=compact" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mori08&layout=compact&theme=github_dark_dimmed" />
+    <img alt="top langs" height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mori08&layout=compact" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mori08&show_icons=true&theme=github_dark_dimmed" />
-    <img alt="stats" height="160" src="https://github-readme-stats.vercel.app/api?username=mori08&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mori08&show_icons=true&theme=github_dark_dimmed" />
+    <img alt="stats" height="160" src="https://github-stats-extended.vercel.app/api?username=mori08&show_icons=true" />
   </picture>
 </div>
 
@@ -21,8 +21,8 @@
 
 <a href="https://github.com/mori08/Ash2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mori08&repo=Ash2&theme=github_dark_dimmed" />
-    <img alt="沼に焚べ (Ash2)" src="https://github-readme-stats.vercel.app/api/pin/?username=mori08&repo=Ash2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=Ash2&theme=github_dark_dimmed" />
+    <img alt="沼に焚べ (Ash2)" src="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=Ash2" />
   </picture>
 </a>
 
