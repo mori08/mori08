@@ -24,6 +24,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=Ash2&theme=github_dark_dimmed" />
     <img alt="沼に焚べ (Ash2)" src="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=Ash2" />
   </picture>
+</a><br>
+<a href="https://github.com/mori08/rust-practice">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=rust-practice&theme=github_dark_dimmed" />
+    <img alt="rustの勉強(rust-practice)" src="https://github-stats-extended.vercel.app/api/pin/?username=mori08&repo=rust-practice" />
+  </picture>
 </a>
 
 ## Works
